@@ -1,0 +1,270 @@
+{
+    "RPT": {
+        "ScanTime": "1.84 sec.",
+        "ScanFile": "20201203_ambientedeestudo_7cd139a30c7031c68716_20201203055818_scan.json",
+        "Warnings": 0,
+        "Success": 6
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "G:\/wampserver\/www\/githubforwordpress\/.opcache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/ai1wm-backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backups-dup-lite",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backups-dup-pro",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backupwordpress",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/bps-backup",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/cache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/content\/cache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/contents\/cache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/infinitewp\/backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/managewp\/backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/old-cache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/updraft",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/aiowps_backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/backupbuddy_backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/backupbuddy_temp",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/ithemes-security\/backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/mainwp\/backup",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/pb_backupbuddy",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/snapshots",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/sucuri",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wp-clone",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wp_all_backup",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wpbackitup_backups",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/wfcache",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-content\/wishlist-backup",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "G:\/wampserver\/www\/githubforwordpress\/.htaccess",
+            "G:\/wampserver\/www\/githubforwordpress\/web.config",
+            "G:\/wampserver\/www\/githubforwordpress\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-snapshots",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backups-dup-lite",
+                    "G:\/wampserver\/www\/githubforwordpress\/.opcache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backups-dup-pro",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/ai1wm-backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/backupwordpress",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/content\/cache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/contents\/cache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/infinitewp\/backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/managewp\/backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/old-cache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/updraft",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/wishlist-backup",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/wfcache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/bps-backup",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/cache",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/aiowps_backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/backupbuddy_temp",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/backupbuddy_backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/ithemes-security\/backups",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/mainwp\/backup",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/pb_backupbuddy",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/snapshots",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/sucuri",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wp-clone",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wp_all_backup",
+                    "G:\/wampserver\/www\/githubforwordpress\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcStatus": "Good",
+            "showCreateProc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good"
+        },
+        "Size": "829.15KB",
+        "Rows": "591",
+        "TableCount": 15,
+        "TableList": {
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": 4096
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "7.33KB",
+                "USize": 7504
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wp_export_page_to_html_logs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": 1024
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "156",
+                "Size": "582.07KB",
+                "USize": 596040
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "22",
+                "Size": "12.93KB",
+                "USize": 13244
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "11",
+                "Size": "22.37KB",
+                "USize": 22904
+            },
+            "wp_simply_static_pages": {
+                "Case": 0,
+                "Rows": "374",
+                "Size": "153.78KB",
+                "USize": 157468
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "3.06KB",
+                "USize": 3135
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "4.08KB",
+                "USize": 4176
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": 4096
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "13.07KB",
+                "USize": 13384
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "11.33KB",
+                "USize": 11604
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "8.13KB",
+                "USize": 8328
+            }
+        },
+        "RawSize": 849051
+    },
+    "LL": {
+        "TotalSize": "829.15KB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}
